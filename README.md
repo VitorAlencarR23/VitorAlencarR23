@@ -20,4 +20,5 @@
 - 7. Refências
 
      ° a) https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/OMergeSort.html
+
       b) a maior parte do projeto foi baseado no slide lista encadeada da professora.
